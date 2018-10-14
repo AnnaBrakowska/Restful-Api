@@ -1,3 +1,4 @@
+Steps to set up RESTful API with MongoDB
 - npm init to initiate package.json
 - install dependencies: express, body-parser, mongoose, nodemon, babel
 - create index.js and directories: src=> controllers, model, routes
